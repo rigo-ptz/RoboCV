@@ -18,6 +18,7 @@
 # Java class files
 *.class
 
+/app/build
 # Generated files
 bin/
 gen/
