@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_test"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ru.jollypanda.robocv.TestActivity"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto">
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/jcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        opencv:camera_id="back"/>
+</RelativeLayout>

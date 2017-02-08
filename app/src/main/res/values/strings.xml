@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoboCV</string>
+    <string name="permis_alert_title">Разрешение</string>
+    <string name="permis_alert_text">Для продолжения необходимо разрешить приложению работать с камерой</string>
+    <string name="settings">Настройки</string>
+    <string name="cancel">Отменить</string>
+</resources>
